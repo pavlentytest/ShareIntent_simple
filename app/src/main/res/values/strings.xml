@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareIntentExample</string>
+    <string name="share_text_or_url">Share Text or URL</string>
+    <string name="share_image">Share Image</string>
+</resources>
